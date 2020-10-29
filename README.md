@@ -7,7 +7,7 @@
 A synchronous Python client package for loading, reading, and dumping REPL projects from repl.it
 
 
-**There currently isn't any functionality for writing to REPLs, nor running REPLs in this version, those features will come at a later date. This library is still in alpha and much more is still to come. Version 0.1.0 won't hit until the ability to run a REPL is added. Currently working on learning crosis first lol**
+**There currently isn't any functionality for writing to REPLs, nor running REPLs in this version, those features will come at a later date. This library is still in alpha and much more is still to come. Version 1.0.0 won't hit until the ability to run a REPL is added.**
 
 
 ## Usage
