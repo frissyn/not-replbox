@@ -107,7 +107,7 @@ This code does a few things:
 
 ### Login
 
-You can login with your repl.it SID. Find this value in your cookies after logging into repl.it under `connect.sid` and **keep this supder-duper ultra secret**! It'll look a little something like this:
+You can login with your repl.it SID. Find this value in your cookies after logging into repl.it under `connect.sid` and **keep this super-duper ultra secret**! It'll look a little something like this:
 
 ![image](https://storage.googleapis.com/replit/images/1603811188109_ba966b7bd97966d6947a1bf1a3960ec7.png) 
 
